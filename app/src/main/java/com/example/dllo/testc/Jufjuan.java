@@ -5,8 +5,12 @@ package com.example.dllo.testc;
  */
 
 public class Jufjuan {
+<<<<<<< HEAD
     //注释
     int a=1;
     //交换机和国际化服
     
+=======
+
+>>>>>>> 高德
 }
