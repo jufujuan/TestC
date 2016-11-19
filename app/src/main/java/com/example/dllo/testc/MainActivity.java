@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
         //jufujuan
 
+        int a=0;
     }
 }
